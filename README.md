@@ -41,4 +41,10 @@
   - Tiles<br>
 
 <h2>:floppy_disk: DB 명세서<h2>
+  
 ![DB](https://user-images.githubusercontent.com/113012188/203214069-1def89b4-8d1a-48dc-adf0-795ea2cf00b6.jpg)
+
+<h2>:family: 개발팀</h2>
+  
+  - Frnot-End Devloper <a href="https://github.com/jiyoung1997">안지영</a>,<a href="https://github.com/jinsheo">허진석</a><br>
+- Back-End Developer <a href="https://github.com/rlagusdn6545">김현우</a>,<a href="https://github.com/yoona4320">최민경</a> 
